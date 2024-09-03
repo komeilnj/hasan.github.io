@@ -1,6 +1,6 @@
 ---
 title: "certificate 4"
-excerpt: "certificate of talk in ICPS 2024 conference in Georgia<br/><img src='/images/certificate_4.jpg'>"
+excerpt: "certificate of talk in ICPS 2024 conference in Georgia<br/><img src='/workspaces/hasan.github.io/_portfolio/certificate_4.jpg'>"
 collection: certificate
 ---
 
