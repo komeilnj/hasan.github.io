@@ -1,6 +1,6 @@
 ---
-title: "certificate 1"
-excerpt: "Quantum programming online school<br/><img src='/images/certificate_1.png'>"
+title: "certificate 4"
+excerpt: "certificate of talk in ICPS 2024 conference in Georgia<br/><img src='/images/certificate_4.jpg'>"
 collection: certificate
 ---
 
