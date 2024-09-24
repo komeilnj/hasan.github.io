@@ -1,9 +1,6 @@
 ---
-title: "certificate 3"
-
-<img src="/workspaces/hasan.github.io/images/certificate_3.jpg" alt="Certificate 3">
-
-excerpt: "attending certificate in Qauntum Technology Winter School"<br/>
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: certificate
 ---
 
